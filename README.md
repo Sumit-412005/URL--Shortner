@@ -27,7 +27,7 @@ Welcome to the **URL Shortener** project! which I developed under Frontend Mento
 ### 🎥 Live Preview  
 Check out the live version of the application
 
-https://thesiddharthmina.github.io/URL-Shortner/
+https://sumit-412005.github.io/URL--Shortner/
 
 ## 📚 Technologies Used  
 
@@ -37,7 +37,7 @@ https://thesiddharthmina.github.io/URL-Shortner/
 
 ## 💬 Feedback  
 
-Have suggestions or feedback? Feel free to open an [issue](https://github.com/TheSiddharthmina/URL-Shortner/issues) or submit a [pull request](https://github.com/TheSiddharthmina/URL-Shortner/pulls).  
+Have suggestions or feedback? Feel free to open an [issue](https://sumit-412005.github.io/URL--Shortner/issues) or submit a [pull request](https://sumit-412005.github.io/URL--Shortner/pulls).  
 
 ---
 
